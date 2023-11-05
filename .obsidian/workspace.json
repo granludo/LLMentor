@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lessons/v1/01-shosk del futuro.md",
+                "file": "Lessons/v1/01-Shock del futuro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c46055c43d456c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lessons/v1/01-Shock del futuro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92036eb4e6f2dad7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lessons/v1/02- Puntos sobre las IAs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lessons/v1/01-shosk del futuro.md",
+                "file": "Lessons/v1/02- Puntos sobre las IAs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lessons/v1/01-shosk del futuro.md",
+                "file": "Lessons/v1/02- Puntos sobre las IAs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lessons/v1/01-shosk del futuro.md"
+                "file": "Lessons/v1/02- Puntos sobre las IAs.md"
               }
             }
           }
@@ -146,6 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "24dd797b507f1305",
-  "lastOpenFiles": []
+  "active": "92036eb4e6f2dad7",
+  "lastOpenFiles": [
+    "Lessons/v1/01-Shock del futuro.md",
+    "Lessons/v1/02- Puntos sobre las IAs.md",
+    "Untitled.md"
+  ]
 }
