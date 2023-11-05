@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lessons/v1/01-Shock del futuro.md",
+                "file": "Lessons/v1/01 - Shock del futuro.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lessons/v1/01-Shock del futuro.md",
+                "file": "Lessons/v1/01 - Shock del futuro.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lessons/v1/02- Puntos sobre las IAs.md",
+                "file": "Lessons/v1/02 - Puntos sobre las IAs.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lessons/v1/02- Puntos sobre las IAs.md",
+                "file": "Lessons/v1/02 - Puntos sobre las IAs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lessons/v1/02- Puntos sobre las IAs.md",
+                "file": "Lessons/v1/02 - Puntos sobre las IAs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lessons/v1/02- Puntos sobre las IAs.md"
+                "file": "Lessons/v1/02 - Puntos sobre las IAs.md"
               }
             }
           }
@@ -173,8 +173,8 @@
   },
   "active": "92036eb4e6f2dad7",
   "lastOpenFiles": [
-    "Lessons/v1/01-Shock del futuro.md",
-    "Lessons/v1/02- Puntos sobre las IAs.md",
+    "Lessons/v1/01 - Shock del futuro.md",
+    "Lessons/v1/02 - Puntos sobre las IAs.md",
     "Untitled.md"
   ]
 }
